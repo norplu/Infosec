@@ -1,12 +1,12 @@
 CC=pdflatex
 FILE=infosec
 TEX=tex
-PDF=PDF
+PDF=pdf
 READER=mupdf
 
 infosec:
 	$(CC) $(FILE).$(TEX)
 
 read:
-	$(CC) $(FILE.$(TEX)
+	$(CC) $(FILE).$(TEX)
 	$(READER) $(FILE).$(PDF)
