@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016 CRUX version 3.2) (preloaded format=pdflatex 2017.3.5)  9 MAY 2017 14:48
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016 CRUX version 3.2) (preloaded format=pdflatex 2017.3.5)  9 MAY 2017 15:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -149,30 +149,73 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 File: img/bricks.jpg Graphic file (type jpg)
  <use img/bricks.jpg>
 Package pdftex.def Info: img/bricks.jpg used on input line 28.
-(pdftex.def)             Requested size: 194.93483pt x 97.47758pt.
+(pdftex.def)             Requested size: 195.0pt x 109.65083pt.
+
+
+Package wrapfig Warning: Collision between wrapping environments on input line 
+36.
 
 <img/camera.jpg, id=9, 5331.92pt x 2999.205pt>
 File: img/camera.jpg Graphic file (type jpg)
  <use img/camera.jpg>
 Package pdftex.def Info: img/camera.jpg used on input line 38.
-(pdftex.def)             Requested size: 194.93483pt x 97.47758pt.
- [2 <./img/bricks.jpg>] [3 <./img/camera.jpg>] [4] (./infosec.aux) ) 
+(pdftex.def)             Requested size: 195.0pt x 109.65083pt.
+
+
+Package wrapfig Warning: Stationary wrapfigure forced to float on input line 41
+.
+
+
+Package wrapfig Warning: Collision between wrapping environments on input line 
+45.
+
+<img/sneks.jpg, id=10, 5331.92pt x 2999.205pt>
+File: img/sneks.jpg Graphic file (type jpg)
+ <use img/sneks.jpg>
+Package pdftex.def Info: img/sneks.jpg used on input line 47.
+(pdftex.def)             Requested size: 195.0pt x 109.65083pt.
+ [2 <./img/bricks.jpg>]
+
+Package wrapfig Warning: Collision between wrapping environments on input line 
+55.
+
+<img/keypad.jpg, id=15, 5331.92pt x 2999.205pt>
+File: img/keypad.jpg Graphic file (type jpg)
+ <use img/keypad.jpg>
+Package pdftex.def Info: img/keypad.jpg used on input line 57.
+(pdftex.def)             Requested size: 195.0pt x 109.65083pt.
+
+
+Package wrapfig Warning: Stationary wrapfigure forced to float on input line 60
+.
+
+
+Package wrapfig Warning: Collision between wrapping environments on input line 
+63.
+
+<img/lockers.jpg, id=16, 5331.92pt x 2999.205pt>
+File: img/lockers.jpg Graphic file (type jpg)
+ <use img/lockers.jpg>
+Package pdftex.def Info: img/lockers.jpg used on input line 65.
+(pdftex.def)             Requested size: 195.0pt x 109.65083pt.
+ [3 <./img/camera.jpg> <./img/sneks.jpg>] [4 <./img/keypad.jpg> <./img/lockers.
+jpg>]
+[5] (./infosec.aux) ) 
 Here is how much of TeX's memory you used:
- 1548 strings out of 493014
- 21676 string characters out of 6139287
+ 1563 strings out of 493014
+ 21931 string characters out of 6139287
  80784 words of memory out of 5000000
- 5100 multiletter control sequences out of 15000+600000
+ 5112 multiletter control sequences out of 15000+600000
  6063 words of font info for 22 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 37i,7n,23p,239b,202s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share
-/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fo
-nts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/type1/publi
-c/amsfonts/cm/cmr17.pfb>
-Output written on infosec.pdf (4 pages, 8749797 bytes).
+ 37i,7n,23p,239b,207s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx
+12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/sh
+are/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
+Output written on infosec.pdf (5 pages, 21253700 bytes).
 PDF statistics:
- 31 PDF objects out of 1000 (max. 8388607)
- 19 compressed objects within 1 object stream
+ 37 PDF objects out of 1000 (max. 8388607)
+ 21 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 26 words of extra memory for PDF output out of 10000 (max. 10000000)
 
